@@ -2,7 +2,7 @@
 
 > **장당 $0.0146 (1K-layer)** 종량제. 최소 1달러부터 충전하고 OpenAI 호환 `https://api.apimart.ai/v1` 하나로 끝납니다.
 
-**[Seedream 5.0 Pro 모델 페이지](https://apimart.ai/ko/model/seedream-5-0-pro)** · **[실시간 가격](https://apimart.ai/ko/pricing)** · **[API 키 발급](https://apimart.ai/ko/keys)**
+**[Seedream 5.0 Pro 모델 페이지](https://go.apimart.ai/k-1b5dd3)** · **[실시간 가격](https://go.apimart.ai/k-32229a)** · **[API 키 발급](https://go.apimart.ai/k-34ca2b)**
 
 1K 레이어 기준 장당 1.46센트로 현행 이미지 모델 중 최저가이며 대량 초안 생성에 적합합니다.
 
