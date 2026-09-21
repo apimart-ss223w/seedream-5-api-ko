@@ -1,0 +1,15 @@
+{
+  "model_id": "seedream-5-0-pro",
+  "family": "Seedream 5.0 Pro",
+  "snapshot": "2026-09-21",
+  "unit": "장당",
+  "price_effective": {
+    "1K-layer": 0.014625,
+    "1K": 0.02925,
+    "2K-layer": 0.02925
+  },
+  "endpoint": "https://api.apimart.ai/v1/images/generations",
+  "poll": "/v1/tasks/{id}",
+  "language": "ko",
+  "source": "https://apimart.ai/en/pricing (extracted 2026-09-21)"
+}
