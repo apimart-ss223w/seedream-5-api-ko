@@ -1,0 +1,27 @@
+{
+  "model": "seedream-5-0-pro",
+  "samples": [
+    {
+      "repo": "seedream-5-api-ko",
+      "slug": "01-preview",
+      "ok": true,
+      "file": "01-preview.jpg",
+      "bytes": 232590,
+      "cost": 0.02925,
+      "prompt": "비 오는 밤 골목, 젖은 아스팔트에 반사되는 네온, 시네마틱 35mm 필름 룩",
+      "lang": "ko"
+    },
+    {
+      "repo": "seedream-5-api-ko",
+      "slug": "02-preview",
+      "ok": true,
+      "file": "02-preview.jpg",
+      "bytes": 87083,
+      "cost": 0.02925,
+      "prompt": "밝은 스튜디오의 도자기 컵, 부드러운 창문 빛, 85mm 렌즈 느낌",
+      "lang": "ko"
+    }
+  ],
+  "cost_usd": 0.0585,
+  "generated_at": "2026-09-21"
+}

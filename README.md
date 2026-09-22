@@ -2,7 +2,8 @@
 
 > **장당 $0.0146 (1K-layer)** 종량제. 최소 1달러부터 충전하고 OpenAI 호환 `https://api.apimart.ai/v1` 하나로 끝납니다.
 
-**[Seedream 5.0 Pro 모델 페이지](https://go.apimart.ai/k-1b5dd3)** · **[실시간 가격](https://go.apimart.ai/k-32229a)** · **[API 키 발급](https://go.apimart.ai/k-34ca2b)**
+<p align="center"><img src="assets/01-preview.jpg" width="820" alt="Seedream 5.0 Pro sample output"></p>
+**[Seedream 5.0 Pro 모델 페이지](https://apimart.ai/ko/model/seedream-5-0-pro)** · **[실시간 가격](https://apimart.ai/ko/pricing)** · **[API 키 발급](https://apimart.ai/ko/keys)**
 
 1K 레이어 기준 장당 1.46센트로 현행 이미지 모델 중 최저가이며 대량 초안 생성에 적합합니다.
 
@@ -20,6 +21,14 @@
 | `model` | `seedream-5-0-pro` |
 | endpoint | `POST https://api.apimart.ai/v1/images/generations` |
 | task | GET /v1/tasks/{id} |
+
+
+## 실제 생성 샘플 (모두 실호출 결과)
+
+| sample | 비용 | prompt |
+| --- | --- | --- |
+| <img src="assets/01-preview.jpg" width="260"> | $0.0293 | `비 오는 밤 골목, 젖은 아스팔트에 반사되는 네온, 시네마틱 35mm 필름 룩` |
+| <img src="assets/02-preview.jpg" width="260"> | $0.0293 | `밝은 스튜디오의 도자기 컵, 부드러운 창문 빛, 85mm 렌즈 느낌` |
 
 ## 실측 가격
 
